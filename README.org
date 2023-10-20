@@ -4,6 +4,6 @@ A Common Lisp library to build fully dynamic web interfaces
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/hemml/OMGlib.git |
-| commit  | cd1aef2                                 |
+| commit  | f3b10ed                                 |
 | systems | omg                                     |
 |---------+-----------------------------------------|
