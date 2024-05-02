@@ -13,4 +13,4 @@ jobs:
           gpg_signing_key: ${{ secrets.GPG_SIGNING_KEY }}
           gpg_public_key: ${{ secrets.GPG_PUBLIC_KEY }}
           dockerhub_password: ${{ secrets.DOCKERHUB_PASSWORD }}
-	  llm_api_key: ${{ secrets.LLM_API_KEY }}
+          llm_api_key: ${{ secrets.LLM_API_KEY }}
