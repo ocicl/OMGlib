@@ -6,6 +6,7 @@ jobs:
       packages: write
     runs-on: ubuntu-latest
     name: Test and publish package
+    timeout-minutes: 40
     steps:
       - id: build-and-publish
         uses: ocicl/ocicl-action@main
